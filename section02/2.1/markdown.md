@@ -7,22 +7,25 @@
 
 
 #  ~ A Simple  Page of things  I like ~
-<br>
-- Food
+
+Food
 1. Pasta
 2. Dessert
 3. Grilled Veggies
 4. Rice
-<br>
+
+
 ## Favourite colors
-<br>
- - **Colors**
- green
- black
- pink
- yellow
+
+ **colors**
+    - gold
+    - yellow
+    - green
+    - black
+    - pink
+    - yellow
  <br>
- ###  Favourite drinks
+ ### Favourite drinks
   <br>
 
 

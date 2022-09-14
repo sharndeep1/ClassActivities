@@ -1,0 +1,15 @@
+* {
+font-style: oblique;
+border: 1px solid red;
+}
+body {
+  background-color: aqua
+}
+.creative {
+  color:red;
+  font-family:cursive;
+
+}
+div {
+  margin: 30px;
+}
